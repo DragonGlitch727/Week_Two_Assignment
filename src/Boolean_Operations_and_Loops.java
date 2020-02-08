@@ -47,6 +47,8 @@ public class Boolean_Operations_and_Loops {
 				System.out.println("Hello");
 			}else if (i % 5 == 0) {
 				System.out.println("World");
+		 	}else{
+		 		System.out.println(i);
 		 	}
 		}
 
